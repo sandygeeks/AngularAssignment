@@ -1,6 +1,4 @@
-# RoonyxAssignment
-Assignment by Roonyx
-
+# Angular Assingments
 
 # Notes
 
